@@ -3,7 +3,7 @@
 
 如果为您的学习提供了帮助，欢迎给一个Star ^_^
 
-https://heroku.com/deploy?template=https://github.com/fifi16/heroku_go-getting-started
+部署 v2ray 到 heroku  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 * 部署方法
    https://github.com/onplus/v2hero/wiki/Deploy-V2ray-To-Heroku
   
